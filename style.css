@@ -1,0 +1,40 @@
+
+
+
+.body {
+  border: 50px;
+  border-color: brown;
+  padding: 50px;
+  margin: 30px;
+  background-color: hsl(0, 0%, 100%)
+}
+.preptime {
+   padding: 30px;
+   background-color: hsl(330, 100%, 98%)
+}
+
+.prep {
+    font-size: 16px;
+    color: hsl(14, 45%, 36%)
+}
+
+.ingred {
+    font-size: 20px;
+    color: hsl(14, 45%, 36%)
+}
+
+.instruct {
+    font-size: 20px;
+    color: hsl(14, 45%, 36%)
+}
+
+.nutr {
+    font-size: 20px;
+    color: hsl(14, 45%, 36%)
+}
+
+.def {
+    font-size: 10px;
+    margin: 10px;
+    
+}
